@@ -19,11 +19,11 @@ sudo apt-get update -y
 sudo apt-get install -y automake
 sudo apt-get update -y
 sudo apt-get install -y libtool
-apt-get install inotify-tools
+sudo apt-get install inotify-tools
 sudo apt update
 sudo apt install build-essential
 sudo apt-get install manpages-dev
 sudo apt-get install libgmp3-dev
 sudo apt**-**get install m4
 sudo apt install make
-apt-get install cargo
+sudo apt-get install cargo
